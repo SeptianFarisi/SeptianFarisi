@@ -35,4 +35,8 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=SeptianFarisi&icon=6&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/SeptianFarisi/SeptianFarisi/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
